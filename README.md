@@ -2,6 +2,11 @@
 
 Un module de paiement pour intégrer KaliaPay dans votre application de manière simplifiée pour javascript.
 
+Vous pouvez ajouter ce module à votre code via un lien CDN comme suit :
+
+**EX: <script src="https://cdn.jsdelivr.net/gh/Kaliapay/kaliapay-JS/KaliaPay.js"> </script>**
+
+
 ## Préréquis
 
 Pour utiliser ce module, il faut vous télécharger Axios.
