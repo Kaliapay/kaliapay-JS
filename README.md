@@ -1,8 +1,10 @@
 # Module de paiement de KaliaPay
 
-Un module de paiement pour intégrer KaliaPay dans votre application de manière simplifiée pour javascript .
+Un module de paiement pour intégrer KaliaPay dans votre application de manière simplifiée pour javascript.
 
 ## Préréquis
+
+Pour utiliser ce module, il faut vous télécharger Axios.
 
 #### 1. Avoir un compte kaliapay
 
